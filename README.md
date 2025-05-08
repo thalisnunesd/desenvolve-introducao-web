@@ -1,2 +1,4 @@
-# desenvolve-introducao-web
-Repositório para as atividades da disciplina Introdução à Programação Web
+# Projeto Desenvolve - Itabira
+
+**Disciplina:** Introdução à Programação Web  
+**Matrícula:** PDITA729
